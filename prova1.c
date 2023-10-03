@@ -7,7 +7,7 @@ Ao término enviar e-mail conforme modelo:
 Para:       preti.joao@ifmt.edu.br
 Assunto:    Prova 1 de Linguagem de Programação 2023/2
 Mensagem:   NOME COMPLETO DO ESTUDANTE
-Anexo:      prova1.py
+Anexo:      prova1.c
 */
 
 //1. Faça um programa que leia o valor unitário de um produto,
